@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" filepath="$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwappinVariables/SwappinVariables.iml" filepath="$PROJECT_DIR$/SwappinVariables/SwappinVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInputs/UserInputs.iml" filepath="$PROJECT_DIR$/UserInputs/UserInputs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+    </modules>
+  </component>
+</project>
