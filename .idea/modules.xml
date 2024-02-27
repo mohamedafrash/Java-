@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/RandomNumbers/RandomNumbers.iml" filepath="$PROJECT_DIR$/RandomNumbers/RandomNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticKeyword/StaticKeyword.iml" filepath="$PROJECT_DIR$/StaticKeyword/StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/StringMethods/StringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperKeyword/SuperKeyword.iml" filepath="$PROJECT_DIR$/SuperKeyword/SuperKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwappinVariables/SwappinVariables.iml" filepath="$PROJECT_DIR$/SwappinVariables/SwappinVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToString/ToString.iml" filepath="$PROJECT_DIR$/ToString/ToString.iml" />
