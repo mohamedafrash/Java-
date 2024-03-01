@@ -5,4 +5,9 @@ public class Car extends Vehicle{
         System.out.println("The driver is driving the car");
         System.out.println("Where to");
     }
+
+    @Override
+    void park() {
+        System.out.println("The driver is parking the car");
+    }
 }
