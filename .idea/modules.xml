@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayOfObjects/ArrayOfObjects.iml" filepath="$PROJECT_DIR$/ArrayOfObjects/ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopyObjects/CopyObjects.iml" filepath="$PROJECT_DIR$/CopyObjects/CopyObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForEachLoop/ForEachLoop.iml" filepath="$PROJECT_DIR$/ForEachLoop/ForEachLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
