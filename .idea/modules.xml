@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/DynamicPolymorphism/DynamicPolymorphism.iml" filepath="$PROJECT_DIR$/DynamicPolymorphism/DynamicPolymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileClass/FileClass.iml" filepath="$PROJECT_DIR$/FileClass/FileClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForEachLoop/ForEachLoop.iml" filepath="$PROJECT_DIR$/ForEachLoop/ForEachLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
